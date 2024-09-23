@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Сергей Давыдов</title>
+    <link>https://sdavydov6.github.io/ru/post/</link>
+      <atom:link href="https://sdavydov6.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Сергей Давыдов</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdavydov6.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Сергей Давыдов</title>
+      <link>https://sdavydov6.github.io/ru/post/</link>
+    </image>
+    
+    <item>
+      <title>Пост по занятиям с 5 по 7 сентября</title>
+      <link>https://sdavydov6.github.io/ru/post/summary3/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/ru/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;С 5 по 7 сентября также посещал лекции по теории вероятностей и математической статистике, готовясь к экзаменам в конце семестра.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по занятиям с 3 по 4 сентября</title>
+      <link>https://sdavydov6.github.io/ru/post/summary2/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/ru/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;3 и 4 сентября помог одногруппнику написать эссе по истории.
+Изучал принцип работы искусственного интеллекта.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11 сентября пост</title>
+      <link>https://sdavydov6.github.io/ru/post/123/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/ru/post/123/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;11 сентября я пришёл на пересдачу по операционным системам&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по занятиям с 1 по 3 сентября</title>
+      <link>https://sdavydov6.github.io/ru/post/summary1/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/ru/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;С 1 по 3 был на работе.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

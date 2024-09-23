@@ -1,76 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
+    <title>Sergey Davydov</title>
     <link>https://sdavydov6.github.io/publication/</link>
       <atom:link href="https://sdavydov6.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <description>Sergey Davydov</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdavydov6.github.io/media/icon_hu7729264130191091259.png</url>
-      <title>Publications</title>
+      <title>Sergey Davydov</title>
       <link>https://sdavydov6.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://sdavydov6.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://sdavydov6.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my 
- on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Quantum computing</title>
+      <link>https://sdavydov6.github.io/publication/quantum-comp/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/quantum-comp/</guid>
+      <description>&lt;p&gt;Quantum computing is a reality, but it is still far from being used regularly in industry. The pace of quantum computing advancement depends on the number of specialists who can make a real contribution to its development. And here it is necessary to create, develop and support teams of physicists who are building new material embodiments for managing quantum effects. In addition, groups of programmers and mathematicians who are developing software for quantum computing and their harmonious combination with the world of classical computing need support. Targeted work is needed to find and stimulate specialists in applied areas who could translate problems from their area into the language of quantum representations. I will add that Artezio has opened an artificial intelligence laboratory, and we are paying attention to QML.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://sdavydov6.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://sdavydov6.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Artificial Intelligence in Medicine to Protect Health</title>
+      <link>https://sdavydov6.github.io/publication/ai-medicine/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/ai-medicine/</guid>
+      <description>&lt;p&gt;Artificial intelligence-based technologies are becoming increasingly popular in medicine and healthcare. Experts already highly value the potential of neural networks: from the ability to accurately diagnose serious diseases (for example, coronary heart disease) to the development of new drugs and generics.
+The role of AI in healthcare is growing more and more actively. According to CB Insights, in 2021, funding for this sector worldwide increased by 108%. The volume of the Russian medical technology market at the end of 2022 amounted to 19.46 billion rubles, an increase of 27.71% compared to the previous year. According to estimates by the National Center for Artificial Intelligence Development (NCAI), today more than half of AI technologies in the field of healthcare are at the experimental launch stage.
+Three areas related to computer diagnostics are developing most successfully: screening and deeper analysis of symptoms based on the study of medical images, for example, X-rays or CT scans, support for medical decision-making, and automation of routine work. For example, a voice bot will help you fill out medical records, and robot operators will make appointments for patients.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://sdavydov6.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://sdavydov6.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Big data is the key to understanding the world</title>
+      <link>https://sdavydov6.github.io/publication/big-data/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/big-data/</guid>
+      <description>&lt;p&gt;The future of Big Data promises many opportunities and innovations as data processing technologies continue to evolve. It is currently one of the most promising areas in IT, including in terms of salaries and career advancement. Here are a few areas where we can expect growth:&lt;/p&gt;
+&lt;p&gt;Improving data processing technologies
+With the advent of more powerful computing systems and optimized data processing algorithms, the ability to analyze and interpret large amounts of data will increase significantly.&lt;/p&gt;
+&lt;p&gt;Expanding scope of application
+Big Data will continue to penetrate various areas such as healthcare, finance, manufacturing, transportation and others, which will allow for optimized processes and more informed business decisions.&lt;/p&gt;
+&lt;p&gt;Real-time data processing
+With the development of stream processing technologies, real-time data analysis will become more common. This will allow for faster response to changes and events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latest technologies in cybersecurity</title>
+      <link>https://sdavydov6.github.io/publication/cyber-sec/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/cyber-sec/</guid>
+      <description>&lt;p&gt;The digital transformation of any organization must include cybersecurity issues, without compliance with the requirements of which it is impossible to build a reliable information system. Today, many existing software products, security tools and IT systems do not meet the new conditions in which they will have to perform their functions. After the departure of foreign software suppliers, the President of Russia decided to develop an import substitution program and set a deadline for the transition to domestic security tools until January 1, 2025. In particular, a ban was introduced on the use of any foreign software at critical information infrastructure facilities in Russia. Due to the current geopolitical situation and the modern picture of cyber threats, it is necessary to develop our own solutions in the field of information security. Sberbank is actively engaged in import substitution of information security tools using innovative technologies. The bank successfully overcomes its dependence on Western suppliers and Western models and methods, changes outdated approaches to risk assessment and management, which helps to effectively solve the problems of replacing cybersecurity tools both for current tasks and for working in conditions of increasing cyber aggression.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Networks How Machines Learn to Think</title>
+      <link>https://sdavydov6.github.io/publication/neuro-net/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/neuro-net/</guid>
+      <description>&lt;p&gt;Neural networks are the brains of artificial intelligence. They are made up of neurons that process information and pass it on to each other. A neuron has connections with other neurons and learns to recognize patterns in data. Neural networks are trained by feeding them a large amount of data, such as input and expected output information.&lt;/p&gt;
+&lt;p&gt;The neural network adapts and changes its weights and parameters to minimize the error between the predicted and actual output. Neural networks can learn to recognize images, voices, texts and make decisions based on this data. They are used in various fields such as medicine, finance, the automotive industry, entertainment and everyday life. Neural networks are a cool thing that helps make our world a better and smarter place.&lt;/p&gt;
+&lt;p&gt;Training neural networks is a dive into the depths of wisdom and knowledge. The process where a neuron, like a student in front of a teacher, learns to recognize images, understand texts and make decisions. Neural networks learn from vast amounts of data, a drop of information is new knowledge, a new revelation.&lt;/p&gt;
+&lt;p&gt;And like magic, neural networks are used to teach artificial intelligence, transferring their knowledge to machines, giving them the ability to think, understand, analyze. They become the key that unlocks the doors to a world of new possibilities, a world where a machine becomes a thinking being, capable of solving problems and creating unprecedented miracles.&lt;/p&gt;
 </description>
     </item>
     

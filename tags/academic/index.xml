@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Hugo Academic CV Theme</title>
+    <title>Academic | Sergey Davydov</title>
     <link>https://sdavydov6.github.io/tags/academic/</link>
       <atom:link href="https://sdavydov6.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdavydov6.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
@@ -13,112 +13,98 @@
     </image>
     
     <item>
-      <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://sdavydov6.github.io/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sdavydov6.github.io/post/get-started/</guid>
-      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 
-&lt;/li&gt;
-&lt;li&gt;📚 
-&lt;/li&gt;
-&lt;li&gt;💬 
- or 
-&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: 
- 
- #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 
-&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the 
- and 
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;
-&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock 
- awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;
-:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;
- are building with this template.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code 
- and 
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
-, 
-, or 
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
-, 
-, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
-&lt;p&gt;
- for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present 
-.&lt;/p&gt;
-&lt;p&gt;Released under the 
- license.&lt;/p&gt;
+      <title>Post on classes from September 5th to 7th</title>
+      <link>https://sdavydov6.github.io/post/summary3/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;what-happened-this-week&#34;&gt;What happened this week&lt;/h2&gt;
+&lt;p&gt;From September 5 to 7, I also attended lectures on probability theory and mathematical statistics in preparation for the end-of-semester exams.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post on classes from September 3rd to 4th</title>
+      <link>https://sdavydov6.github.io/post/summary2/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;what-happened-this-week&#34;&gt;What happened this week&lt;/h2&gt;
+&lt;p&gt;On September 3 and 4, I helped a classmate write an essay on history. I studied the principle of artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11 сентября пост</title>
+      <link>https://sdavydov6.github.io/post/123/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/post/123/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;11 сентября я пришёл на пересдачу по операционным системам&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post on classes from September 1st to September 3rd</title>
+      <link>https://sdavydov6.github.io/post/summary1/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;what-happened-this-week&#34;&gt;What happened this week&lt;/h2&gt;
+&lt;p&gt;I was at work from 1 to 3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum computing</title>
+      <link>https://sdavydov6.github.io/publication/quantum-comp/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/quantum-comp/</guid>
+      <description>&lt;p&gt;Quantum computing is a reality, but it is still far from being used regularly in industry. The pace of quantum computing advancement depends on the number of specialists who can make a real contribution to its development. And here it is necessary to create, develop and support teams of physicists who are building new material embodiments for managing quantum effects. In addition, groups of programmers and mathematicians who are developing software for quantum computing and their harmonious combination with the world of classical computing need support. Targeted work is needed to find and stimulate specialists in applied areas who could translate problems from their area into the language of quantum representations. I will add that Artezio has opened an artificial intelligence laboratory, and we are paying attention to QML.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Medicine to Protect Health</title>
+      <link>https://sdavydov6.github.io/publication/ai-medicine/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/ai-medicine/</guid>
+      <description>&lt;p&gt;Artificial intelligence-based technologies are becoming increasingly popular in medicine and healthcare. Experts already highly value the potential of neural networks: from the ability to accurately diagnose serious diseases (for example, coronary heart disease) to the development of new drugs and generics.
+The role of AI in healthcare is growing more and more actively. According to CB Insights, in 2021, funding for this sector worldwide increased by 108%. The volume of the Russian medical technology market at the end of 2022 amounted to 19.46 billion rubles, an increase of 27.71% compared to the previous year. According to estimates by the National Center for Artificial Intelligence Development (NCAI), today more than half of AI technologies in the field of healthcare are at the experimental launch stage.
+Three areas related to computer diagnostics are developing most successfully: screening and deeper analysis of symptoms based on the study of medical images, for example, X-rays or CT scans, support for medical decision-making, and automation of routine work. For example, a voice bot will help you fill out medical records, and robot operators will make appointments for patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big data is the key to understanding the world</title>
+      <link>https://sdavydov6.github.io/publication/big-data/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/big-data/</guid>
+      <description>&lt;p&gt;The future of Big Data promises many opportunities and innovations as data processing technologies continue to evolve. It is currently one of the most promising areas in IT, including in terms of salaries and career advancement. Here are a few areas where we can expect growth:&lt;/p&gt;
+&lt;p&gt;Improving data processing technologies
+With the advent of more powerful computing systems and optimized data processing algorithms, the ability to analyze and interpret large amounts of data will increase significantly.&lt;/p&gt;
+&lt;p&gt;Expanding scope of application
+Big Data will continue to penetrate various areas such as healthcare, finance, manufacturing, transportation and others, which will allow for optimized processes and more informed business decisions.&lt;/p&gt;
+&lt;p&gt;Real-time data processing
+With the development of stream processing technologies, real-time data analysis will become more common. This will allow for faster response to changes and events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latest technologies in cybersecurity</title>
+      <link>https://sdavydov6.github.io/publication/cyber-sec/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/cyber-sec/</guid>
+      <description>&lt;p&gt;The digital transformation of any organization must include cybersecurity issues, without compliance with the requirements of which it is impossible to build a reliable information system. Today, many existing software products, security tools and IT systems do not meet the new conditions in which they will have to perform their functions. After the departure of foreign software suppliers, the President of Russia decided to develop an import substitution program and set a deadline for the transition to domestic security tools until January 1, 2025. In particular, a ban was introduced on the use of any foreign software at critical information infrastructure facilities in Russia. Due to the current geopolitical situation and the modern picture of cyber threats, it is necessary to develop our own solutions in the field of information security. Sberbank is actively engaged in import substitution of information security tools using innovative technologies. The bank successfully overcomes its dependence on Western suppliers and Western models and methods, changes outdated approaches to risk assessment and management, which helps to effectively solve the problems of replacing cybersecurity tools both for current tasks and for working in conditions of increasing cyber aggression.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Networks How Machines Learn to Think</title>
+      <link>https://sdavydov6.github.io/publication/neuro-net/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sdavydov6.github.io/publication/neuro-net/</guid>
+      <description>&lt;p&gt;Neural networks are the brains of artificial intelligence. They are made up of neurons that process information and pass it on to each other. A neuron has connections with other neurons and learns to recognize patterns in data. Neural networks are trained by feeding them a large amount of data, such as input and expected output information.&lt;/p&gt;
+&lt;p&gt;The neural network adapts and changes its weights and parameters to minimize the error between the predicted and actual output. Neural networks can learn to recognize images, voices, texts and make decisions based on this data. They are used in various fields such as medicine, finance, the automotive industry, entertainment and everyday life. Neural networks are a cool thing that helps make our world a better and smarter place.&lt;/p&gt;
+&lt;p&gt;Training neural networks is a dive into the depths of wisdom and knowledge. The process where a neuron, like a student in front of a teacher, learns to recognize images, understand texts and make decisions. Neural networks learn from vast amounts of data, a drop of information is new knowledge, a new revelation.&lt;/p&gt;
+&lt;p&gt;And like magic, neural networks are used to teach artificial intelligence, transferring their knowledge to machines, giving them the ability to think, understand, analyze. They become the key that unlocks the doors to a world of new possibilities, a world where a machine becomes a thinking being, capable of solving problems and creating unprecedented miracles.&lt;/p&gt;
 </description>
     </item>
     
